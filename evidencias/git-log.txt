@@ -1,0 +1,17 @@
+*   6f494f7 Resuelvo el conflicto entre las ramas suma y resta
+|\  
+| *   cdd371e Merge pull request #3 from alexdesousa7/feature/suma
+| |\  
+| | * 39da1c8 agrego la funcion de sumar al repositorio
+| |/  
+* / 3cf867c agregando ahora la funcion resta al repositorio
+|/  
+*   6cc89c3 Merge pull request #2 from alexdesousa7/feature/gitignore
+|\  
+| * 607c10b agrego el contenido adicional de la carpeta evidencias
+* | f49f253 Merge pull request #1 from alexdesousa7/feature/gitignore
+|\| 
+| * 5917561 agrego archivo gitignora para no subir al repositorio los archivos con extension .log y la carpeta __pycache__
+|/  
+* 2aca95f he agregado evidencias de la proteccion de la rama main, tambien he creado una carpeta llamada evidencias con un archivo llamado EVIDENCIAS.md
+* c71a9dd Primer commit del ejercicio agregando README.md con nombre y fecha del alumno
