@@ -1,3 +1,13 @@
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Enlace de mi repositorio del versionado
+
+
+https://github.com/alexdesousa7/Practica_Pontia_03.git
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 La proteccion que se ha configurado es la proteccion de la rama "main" que es la rama principal o master, asi lo entiendo yo del repositorio donde estamos trabajando
 
 Porque es importante o recomendable proteger la rama main?, porque en un entorno laboral varias personas pueden estar trabajando con un mismo repositorio este proceso forma parte de las buenas practicas de CI / CD.
@@ -37,5 +47,23 @@ El coordinador por llamarlo de alguna forma hace merge aceptando sin problemas l
 En este caso se tiene que analizar y solo dejar el codigo que se quiere dejar en dicho archivo, guardar los cambios y hacer un pull resquest a la rama main y el conflicto en principio se deberia de solucionar.
 
 agrego algunas imagenes tambien
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Explicacion del funcionamiento del Workflow
+
+Un workflow en Github Actions es como una tarea automatica que ejecuta github por nosotros por medio de un archivo Yaml, en el cual le indicamos donde deberia de ejecutarse y que tiene que hacer.
+
+En este caso cuando la ejecutabamos nos pedia nuestro nombre, pero puede usarse para mucho mas funciones.
+
+En las evidencias he agregado varias capturas porque al inicio me dio problemas y tuve que buscar otro codigo para hacer funcionar el workflow, el cual al final logre ejecutar sin problemas.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+He agregado un archivo word con el contenido del paso a paso de toda la actividad del versionado
+He agregado capturas de todo el ejercicio
+He borrado una carpeta que he creado por error en el ultimo ejercicio la cual se llamaba "githhub"
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
